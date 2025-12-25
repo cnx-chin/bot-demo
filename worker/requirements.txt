@@ -1,0 +1,13 @@
+Flask==3.1.0
+requests==2.32.3
+PyJWT==2.10.1
+boto3==1.39.3
+google-cloud-logging==3.12.1
+gunicorn==23.0.0
+cryptography==46.0.2
+google-cloud-documentai==3.6.0
+google-cloud-storage==3.4.0
+google-cloud-secret-manager==2.24.0
+opencv-python-headless==4.10.0.84
+Pillow==11.0.0
+numpy==2.2.0
